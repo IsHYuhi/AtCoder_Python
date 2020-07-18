@@ -31,4 +31,4 @@ l = len(dic)
 if dic.get('choice'):
     choice = dic['choice']
     l -= 1
-print(max(1, l), min(8, l+choice))
+print(max(1, l), l+choice)

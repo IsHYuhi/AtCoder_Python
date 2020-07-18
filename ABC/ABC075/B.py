@@ -12,4 +12,3 @@ for i in range(h):
             field[i][j] = count
         print(field[i][j], end='')
     print()
-
