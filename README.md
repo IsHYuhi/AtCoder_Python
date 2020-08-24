@@ -95,10 +95,10 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 |[ABC133](ABC/ABC133)|[&check;](ABC/ABC133/A.py)|[&check;](ABC/ABC133/B.py)|[&check;](ABC/ABC133/C.py)|||||[ABC173](ABC/ABC173)|[&check;](ABC/ABC173/A.py)|[&check;](ABC/ABC173/B.py)|[&check;](ABC/ABC173/C.py)|[&check;](ABC/ABC173/D.py)|||
 |[ABC134](ABC/ABC134)|[&check;](ABC/ABC134/A.py)|[&check;](ABC/ABC134/B.py)|[&check;](ABC/ABC134/C.py)|||||ABC174|||||||
 |[ABC135](ABC/ABC135)|[&check;](ABC/ABC135/A.py)|[&check;](ABC/ABC135/B.py)|[&check;](ABC/ABC135/C.py)|||||ABC175|||||||
-|ABC136||||||||[ABC176](ABC/ABC176)|[&check;](ABC/ABC176/A.py)|[&check;](ABC/ABC176/B.py)|[&check;](ABC/ABC176/C.py)||||
-|ABC137|||||||
-|ABC138|||||||
-|ABC139|||||||
+|[ABC136](ABC/ABC136)|[&check;](ABC/ABC136/A.py)|[&check;](ABC/ABC136/B.py)|[&check;](ABC/ABC136/C.py)|||||[ABC176](ABC/ABC176)|[&check;](ABC/ABC176/A.py)|[&check;](ABC/ABC176/B.py)|[&check;](ABC/ABC176/C.py)||||
+|[ABC137](ABC/ABC137)|[&check;](ABC/ABC137/A.py)|[&check;](ABC/ABC137/B.py)|[&check;](ABC/ABC137/C.py)||||
+|[ABC138](ABC/ABC138)|[&check;](ABC/ABC138/A.py)|[&check;](ABC/ABC138/B.py)|[&check;](ABC/ABC138/C.py)||||
+|[ABC139](ABC/ABC139)|[&check;](ABC/ABC139/A.py)|[&check;](ABC/ABC139/B.py)|[&check;](ABC/ABC139/C.py)|[&check;](ABC/ABC139/D.py)|||
 |ABC140|||||||
 |ABC141|||||||
 |ABC142|||||||
