@@ -99,9 +99,9 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 |[ABC137](ABC/ABC137)|[&check;](ABC/ABC137/A.py)|[&check;](ABC/ABC137/B.py)|[&check;](ABC/ABC137/C.py)||||
 |[ABC138](ABC/ABC138)|[&check;](ABC/ABC138/A.py)|[&check;](ABC/ABC138/B.py)|[&check;](ABC/ABC138/C.py)||||
 |[ABC139](ABC/ABC139)|[&check;](ABC/ABC139/A.py)|[&check;](ABC/ABC139/B.py)|[&check;](ABC/ABC139/C.py)|[&check;](ABC/ABC139/D.py)|||
-|ABC140|||||||
-|ABC141|||||||
-|ABC142|||||||
+|[ABC140](ABC/ABC140)|[&check;](ABC/ABC140/A.py)|[&check;](ABC/ABC140/B.py)|[&check;](ABC/ABC140/C.py)||||
+|[ABC141](ABC/ABC141)|[&check;](ABC/ABC141/A.py)|[&check;](ABC/ABC141/B.py)|[&check;](ABC/ABC141/C.py)||||
+|[ABC142](ABC/ABC142)|[&check;](ABC/ABC142/A.py)|[&check;](ABC/ABC142/B.py)|[&check;](ABC/ABC142/C.py)||||
 |ABC143|||||||
 |ABC144|||||||
 |ABC145|||||||
