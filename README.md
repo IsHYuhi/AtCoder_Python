@@ -97,13 +97,13 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 |[ABC135](ABC/ABC135)|[&check;](ABC/ABC135/A.py)|[&check;](ABC/ABC135/B.py)|[&check;](ABC/ABC135/C.py)|||||ABC175|||||||
 |[ABC136](ABC/ABC136)|[&check;](ABC/ABC136/A.py)|[&check;](ABC/ABC136/B.py)|[&check;](ABC/ABC136/C.py)|||||[ABC176](ABC/ABC176)|[&check;](ABC/ABC176/A.py)|[&check;](ABC/ABC176/B.py)|[&check;](ABC/ABC176/C.py)||||
 |[ABC137](ABC/ABC137)|[&check;](ABC/ABC137/A.py)|[&check;](ABC/ABC137/B.py)|[&check;](ABC/ABC137/C.py)|||||[ABC177](ABC/ABC177)|[&check;](ABC/ABC177/A.py)|[&check;](ABC/ABC177/B.py)|[&check;](ABC/ABC177/C.py)||||
-|[ABC138](ABC/ABC138)|[&check;](ABC/ABC138/A.py)|[&check;](ABC/ABC138/B.py)|[&check;](ABC/ABC138/C.py)||||
-|[ABC139](ABC/ABC139)|[&check;](ABC/ABC139/A.py)|[&check;](ABC/ABC139/B.py)|[&check;](ABC/ABC139/C.py)|[&check;](ABC/ABC139/D.py)|||
+|[ABC138](ABC/ABC138)|[&check;](ABC/ABC138/A.py)|[&check;](ABC/ABC138/B.py)|[&check;](ABC/ABC138/C.py)|||||ABC178|||||||
+|[ABC139](ABC/ABC139)|[&check;](ABC/ABC139/A.py)|[&check;](ABC/ABC139/B.py)|[&check;](ABC/ABC139/C.py)|[&check;](ABC/ABC139/D.py)||||[ABC179](ABC/ABC179/)|[&check;](ABC/ABC179/A.py)|[&check;](ABC/ABC179/B.py)|[&check;](ABC/ABC179/C.py)||||
 |[ABC140](ABC/ABC140)|[&check;](ABC/ABC140/A.py)|[&check;](ABC/ABC140/B.py)|[&check;](ABC/ABC140/C.py)||||
 |[ABC141](ABC/ABC141)|[&check;](ABC/ABC141/A.py)|[&check;](ABC/ABC141/B.py)|[&check;](ABC/ABC141/C.py)||||
 |[ABC142](ABC/ABC142)|[&check;](ABC/ABC142/A.py)|[&check;](ABC/ABC142/B.py)|[&check;](ABC/ABC142/C.py)||||
-|ABC143|||||||
-|ABC144|||||||
+|[ABC143](ABC/ABC143)|[&check;](ABC/ABC143/A.py)|[&check;](ABC/ABC143/B.py)|[&check;](ABC/ABC143/C.py)|[&check;](ABC/ABC143/D.py)|||
+|[ABC144](ABC/ABC144)|[&check;](ABC/ABC144/A.py)|[&check;](ABC/ABC144/B.py)|[&check;](ABC/ABC144/C.py)|[&check;](ABC/ABC144/D.py)|||
 |ABC145|||||||
 |ABC146|||||||
 |ABC147|||||||
