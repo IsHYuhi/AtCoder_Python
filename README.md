@@ -108,10 +108,10 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 |[ABC146](ABC/ABC146)|[&check;](ABC/ABC146/A.py)|[&check;](ABC/ABC146/B.py)|[&check;](ABC/ABC146/C.py)||||
 |[ABC147](ABC/ABC147)|[&check;](ABC/ABC147/A.py)|[&check;](ABC/ABC147/B.py)|||||
 |[ABC148](ABC/ABC148)|[&check;](ABC/ABC148/A.py)|[&check;](ABC/ABC148/B.py)|[&check;](ABC/ABC148/C.py)|[&check;](ABC/ABC148/D.py)|||
-|ABC149|||||||
-|ABC150|||||||
-|ABC151|||||||
-|ABC152|||||||
+|[ABC149](ABC/ABC149)|[&check;](ABC/ABC149/A.py)|[&check;](ABC/ABC149/B.py)|[&check;](ABC/ABC149/C.py)||||
+|[ABC150](ABC/ABC150)|[&check;](ABC/ABC150/A.py)|[&check;](ABC/ABC150/B.py)|[&check;](ABC/ABC150/C.py)||||
+|[ABC151](ABC/ABC151)|[&check;](ABC/ABC151/A.py)|[&check;](ABC/ABC151/B.py)|[&check;](ABC/ABC151/C.py)||||
+|[ABC152](ABC/ABC152)|[&check;](ABC/ABC152/A.py)|[&check;](ABC/ABC152/B.py)|[&check;](ABC/ABC152/C.py)||||
 |ABC153|||||||
 |ABC154|||||||
 |ABC155|||||||
