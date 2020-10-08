@@ -4,6 +4,7 @@ ans = 0
 dp = [0]*(a[-1]+1)
 
 for i in a:
+    #start=i, default:1
     for j in range(i, max(a)+1, i):
         dp[j] += 1
 
