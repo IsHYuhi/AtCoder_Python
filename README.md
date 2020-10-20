@@ -139,8 +139,8 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[ARC001](ARC/ARC001)|[&check;](ARC/ARC001/A.py)|[&check;](ARC/ARC001/B.py)| - | - ||[ARC053](ARC/ARC053)| - | - | - | - |
 |[ARC002](ARC/ARC002)|[&check;](ARC/ARC002/A.py)|[&check;](ARC/ARC002/B.py)| - | - ||[ARC054](ARC/ARC054)| - | - | - | - |
-|[ARC003](ARC/ARC003)|(ARC/ARC003/A.py)| - | - | - ||[ARC055](ARC/ARC055)| - | - | - | - |
-|[ARC004](ARC/ARC004)|(ARC/ARC004/A.py)| - | - | - ||[ARC056](ARC/ARC056)| - | - | - | - |
+|[ARC003](ARC/ARC003)|[&check;](ARC/ARC003/A.py)| - | - | - ||[ARC055](ARC/ARC055)| - | - | - | - |
+|[ARC004](ARC/ARC004)|[&check;](ARC/ARC004/A.py)| - | - | - ||[ARC056](ARC/ARC056)| - | - | - | - |
 |[ARC005](ARC/ARC005)| - | - | - | - ||[ARC057](ARC/ARC057)| - | - | - | - |
 |[ARC006](ARC/ARC006)| - | - | - | - ||[ARC058](ARC/ARC058)| - | - | - | - |
 |[ARC007](ARC/ARC007)| - | - | - | - ||[ARC059](ARC/ARC059)|[&check;](ARC/ARC059/A.py)| - | - | - |
