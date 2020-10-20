@@ -8,7 +8,7 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 ## [AtCoder Beginner Contest](ABC)
 | Problem A | Problem B | Problem C | Problem D | Problem E | Problem F |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|180/180  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|180/180  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|146/180|30/174|4/55|0/55|
+|180/180  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|180/180  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|147/180|30/174|4/55|0/55|
 
 
 ### ABC001 - ABC041
@@ -40,7 +40,7 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 ### ABC042 - ABC125
 |コンテスト| A | B | C | D ||コンテスト| A | B | C | D |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[ABC042](ABC/ABC042)|[&check;](ABC/ABC042/A.py)|[&check;](ABC/ABC042/B.py)||||[ABC084](ABC/ABC084)|[&check;](ABC/ABC084/A.py)|[&check;](ABC/ABC084/B.py)|[&check;](ABC/ABC084/C.py)|
+|[ABC042](ABC/ABC042)|[&check;](ABC/ABC042/A.py)|[&check;](ABC/ABC042/B.py)|[&check;](ABC/ABC042/C.py)|||[ABC084](ABC/ABC084)|[&check;](ABC/ABC084/A.py)|[&check;](ABC/ABC084/B.py)|[&check;](ABC/ABC084/C.py)|
 |[ABC043](ABC/ABC043)|[&check;](ABC/ABC043/A.py)|[&check;](ABC/ABC043/B.py)|[&check;](ABC/ABC043/C.py)|||[ABC085](ABC/ABC085)|[&check;](ABC/ABC085/A.py)|[&check;](ABC/ABC085/B.py)|[&check;](ABC/ABC085/C.py)|
 |[ABC044](ABC/ABC044)|[&check;](ABC/ABC044/A.py)|[&check;](ABC/ABC044/B.py)||||[ABC086](ABC/ABC086)|[&check;](ABC/ABC086/A.py)|[&check;](ABC/ABC086/B.py)|[&check;](ABC/ABC086/C.py)|
 |[ABC045](ABC/ABC045)|[&check;](ABC/ABC045/A.py)|[&check;](ABC/ABC045/B.py)|[&check;](ABC/ABC045/C.py)|||[ABC087](ABC/ABC087)|[&check;](ABC/ABC087/A.py)|[&check;](ABC/ABC087/B.py)|[&check;](ABC/ABC087/C.py)|
@@ -132,15 +132,15 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 ## [AtCoder Regular Contest](ARC)
 | Problem A | Problem B | Problem C | Problem D | Problem E | Problem F |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|32/104|3/104|0/104|0/104|0/1|0/1|
+|40/104|3/104|0/104|0/104|0/1|0/1|
 
 ### ARC001 - ARC103
 |コンテスト| A | B | C | D ||コンテスト| A | B | C | D |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[ARC001](ARC/ARC001)|[&check;](ARC/ARC001/A.py)|[&check;](ARC/ARC001/B.py)| - | - ||[ARC053](ARC/ARC053)| - | - | - | - |
 |[ARC002](ARC/ARC002)|[&check;](ARC/ARC002/A.py)|[&check;](ARC/ARC002/B.py)| - | - ||[ARC054](ARC/ARC054)| - | - | - | - |
-|[ARC003](ARC/ARC003)| - | - | - | - ||[ARC055](ARC/ARC055)| - | - | - | - |
-|[ARC004](ARC/ARC004)| - | - | - | - ||[ARC056](ARC/ARC056)| - | - | - | - |
+|[ARC003](ARC/ARC003)|(ARC/ARC003/A.py)| - | - | - ||[ARC055](ARC/ARC055)| - | - | - | - |
+|[ARC004](ARC/ARC004)|(ARC/ARC004/A.py)| - | - | - ||[ARC056](ARC/ARC056)| - | - | - | - |
 |[ARC005](ARC/ARC005)| - | - | - | - ||[ARC057](ARC/ARC057)| - | - | - | - |
 |[ARC006](ARC/ARC006)| - | - | - | - ||[ARC058](ARC/ARC058)| - | - | - | - |
 |[ARC007](ARC/ARC007)| - | - | - | - ||[ARC059](ARC/ARC059)|[&check;](ARC/ARC059/A.py)| - | - | - |
