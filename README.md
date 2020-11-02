@@ -132,7 +132,7 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 ## [AtCoder Regular Contest](ARC)
 | Problem A | Problem B | Problem C | Problem D | Problem E | Problem F |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|50/104|7/104|0/104|0/104|0/1|0/1|
+|51/104|8/104|0/104|0/104|0/1|0/1|
 
 ### ARC001 - ARC103
 |コンテスト| A | B | C | D ||コンテスト| A | B | C | D |
@@ -148,7 +148,7 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 |[ARC009](ARC/ARC009)|[&check;](ARC/ARC009/A.py)| - | - | - ||[ARC061](ARC/ARC061)|[&check;](ARC/ARC061/A.py)| - | - | - |
 |[ARC010](ARC/ARC010)|[&check;](ARC/ARC010/A.py)| - | - | - ||[ARC062](ARC/ARC062)| - | - | - | - |
 |[ARC011](ARC/ARC011)|[&check;](ARC/ARC011/A.py)| - | - | - ||[ARC063](ARC/ARC063)|[&check;](ARC/ARC063/A.py)| - | - | - |
-|[ARC012](ARC/ARC012)| - | - | - | - ||[ARC064](ARC/ARC064)| - | - | - | - |
+|[ARC012](ARC/ARC012)|[&check;](ARC/ARC012/B.py)|[&check;](ARC/ARC012/B.py)| - | - ||[ARC064](ARC/ARC064)| - | - | - | - |
 |[ARC013](ARC/ARC013)| - | - | - | - ||[ARC065](ARC/ARC065)| - | - | - | - |
 |[ARC014](ARC/ARC014)| - | - | - | - ||[ARC066](ARC/ARC066)| - | - | - | - |
 |[ARC015](ARC/ARC015)| - | - | - | - ||[ARC067](ARC/ARC067)| - | - | - | - |
