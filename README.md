@@ -8,7 +8,7 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 ## [AtCoder Beginner Contest](ABC)
 | Problem A | Problem B | Problem C | Problem D | Problem E | Problem F |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|181/181  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|181/181  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|158/181|37/175|4/56|0/56|
+|181/181  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|181/181  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|158/181|41/175|4/56|0/56|
 
 
 ### ABC001 - ABC041
@@ -40,8 +40,8 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 ### ABC042 - ABC125
 |コンテスト| A | B | C | D ||コンテスト| A | B | C | D |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[ABC042](ABC/ABC042)|[&check;](ABC/ABC042/A.py)|[&check;](ABC/ABC042/B.py)|[&check;](ABC/ABC042/C.py)|||[ABC084](ABC/ABC084)|[&check;](ABC/ABC084/A.py)|[&check;](ABC/ABC084/B.py)|[&check;](ABC/ABC084/C.py)|
-|[ABC043](ABC/ABC043)|[&check;](ABC/ABC043/A.py)|[&check;](ABC/ABC043/B.py)|[&check;](ABC/ABC043/C.py)|||[ABC085](ABC/ABC085)|[&check;](ABC/ABC085/A.py)|[&check;](ABC/ABC085/B.py)|[&check;](ABC/ABC085/C.py)|
+|[ABC042](ABC/ABC042)|[&check;](ABC/ABC042/A.py)|[&check;](ABC/ABC042/B.py)|[&check;](ABC/ABC042/C.py)|||[ABC084](ABC/ABC084)|[&check;](ABC/ABC084/A.py)|[&check;](ABC/ABC084/B.py)|[&check;](ABC/ABC084/C.py)|[&check;](ABC/ABC084/D.py)|
+|[ABC043](ABC/ABC043)|[&check;](ABC/ABC043/A.py)|[&check;](ABC/ABC043/B.py)|[&check;](ABC/ABC043/C.py)|||[ABC085](ABC/ABC085)|[&check;](ABC/ABC085/A.py)|[&check;](ABC/ABC085/B.py)|[&check;](ABC/ABC085/C.py)|[&check;](ABC/ABC085/D.py)|
 |[ABC044](ABC/ABC044)|[&check;](ABC/ABC044/A.py)|[&check;](ABC/ABC044/B.py)||||[ABC086](ABC/ABC086)|[&check;](ABC/ABC086/A.py)|[&check;](ABC/ABC086/B.py)|[&check;](ABC/ABC086/C.py)|
 |[ABC045](ABC/ABC045)|[&check;](ABC/ABC045/A.py)|[&check;](ABC/ABC045/B.py)|[&check;](ABC/ABC045/C.py)|||[ABC087](ABC/ABC087)|[&check;](ABC/ABC087/A.py)|[&check;](ABC/ABC087/B.py)|[&check;](ABC/ABC087/C.py)|
 |[ABC046](ABC/ABC046)|[&check;](ABC/ABC046/A.py)|[&check;](ABC/ABC046/B.py)||||[ABC088](ABC/ABC088)|[&check;](ABC/ABC088/A.py)|[&check;](ABC/ABC088/B.py)|[&check;](ABC/ABC088/C.py)|[&check;](ABC/ABC088/D.py)|
@@ -50,7 +50,7 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 |[ABC049](ABC/ABC049)|[&check;](ABC/ABC049/A.py)|[&check;](ABC/ABC049/B.py)|[&check;](ABC/ABC049/C.py)|||[ABC091](ABC/ABC091)|[&check;](ABC/ABC091/A.py)|[&check;](ABC/ABC091/B.py)||
 |[ABC050](ABC/ABC050)|[&check;](ABC/ABC050/A.py)|[&check;](ABC/ABC050/B.py)|[&check;](ABC/ABC050/C.py)|||[ABC092](ABC/ABC092)|[&check;](ABC/ABC092/A.py)|[&check;](ABC/ABC092/B.py)|[&check;](ABC/ABC092/C.py)||
 |[ABC051](ABC/ABC051)|[&check;](ABC/ABC051/A.py)|[&check;](ABC/ABC051/B.py)|[&check;](ABC/ABC051/C.py)|||[ABC093](ABC/ABC093)|[&check;](ABC/ABC093/A.py)|[&check;](ABC/ABC093/B.py)|[&check;](ABC/ABC093/C.py)||
-|[ABC052](ABC/ABC052)|[&check;](ABC/ABC052/A.py)|[&check;](ABC/ABC052/B.py)|[&check;](ABC/ABC052/C.py)|[&check;](ABC/ABC052/D.py)||[ABC094](ABC/ABC094)|[&check;](ABC/ABC094/A.py)|[&check;](ABC/ABC094/B.py)|[&check;](ABC/ABC094/C.py)||
+|[ABC052](ABC/ABC052)|[&check;](ABC/ABC052/A.py)|[&check;](ABC/ABC052/B.py)|[&check;](ABC/ABC052/C.py)|[&check;](ABC/ABC052/D.py)||[ABC094](ABC/ABC094)|[&check;](ABC/ABC094/A.py)|[&check;](ABC/ABC094/B.py)|[&check;](ABC/ABC094/C.py)|[&check;](ABC/ABC094/D.py)|
 |[ABC053](ABC/ABC053)|[&check;](ABC/ABC053/A.py)|[&check;](ABC/ABC053/B.py)|[&check;](ABC/ABC053/C.py)|[&check;](ABC/ABC053/D.py)||[ABC095](ABC/ABC095)|[&check;](ABC/ABC095/A.py)|[&check;](ABC/ABC095/B.py)|[&check;](ABC/ABC095/C.py)||
 |[ABC054](ABC/ABC054)|[&check;](ABC/ABC054/A.py)|[&check;](ABC/ABC054/A.py)|[&check;](ABC/ABC054/C.py)|||[ABC096](ABC/ABC096)|[&check;](ABC/ABC096/A.py)|[&check;](ABC/ABC096/B.py)|[&check;](ABC/ABC096/C.py)||
 |[ABC055](ABC/ABC055)|[&check;](ABC/ABC055/A.py)|[&check;](ABC/ABC055/B.py)|[&check;](ABC/ABC055/C.py)|||[ABC097](ABC/ABC097)|[&check;](ABC/ABC097/A.py)|[&check;](ABC/ABC097/B.py)|[&check;](ABC/ABC097/C.py)||
@@ -77,7 +77,7 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 |[ABC076](ABC/ABC076)|[&check;](ABC/ABC076/A.py)|[&check;](ABC/ABC076/B.py)|[&check;](ABC/ABC076/C.py)|||[ABC118](ABC/ABC118)|[&check;](ABC/ABC118/A.py)|[&check;](ABC/ABC118/B.py)|[&check;](ABC/ABC118/C.py)||
 |[ABC077](ABC/ABC077)|[&check;](ABC/ABC077/A.py)|[&check;](ABC/ABC077/B.py)|[&check;](ABC/ABC080/B.py)|||[ABC119](ABC/ABC119)|[&check;](ABC/ABC119/A.py)|[&check;](ABC/ABC119/B.py)|||
 |[ABC078](ABC/ABC078)|[&check;](ABC/ABC078/A.py)|[&check;](ABC/ABC078/B.py)|[&check;](ABC/ABC078/C.py)|||[ABC120](ABC/ABC120)|[&check;](ABC/ABC120/A.py)|[&check;](ABC/ABC120/B.py)|[&check;](ABC/ABC120/C.py)||
-|[ABC079](ABC/ABC079)|[&check;](ABC/ABC079/A.py)|[&check;](ABC/ABC079/B.py)|[&check;](ABC/ABC079/C.py)|||[ABC121](ABC/ABC121)|[&check;](ABC/ABC121/A.py)|[&check;](ABC/ABC121/B.py)|[&check;](ABC/ABC121/C.py)||
+|[ABC079](ABC/ABC079)|[&check;](ABC/ABC079/A.py)|[&check;](ABC/ABC079/B.py)|[&check;](ABC/ABC079/C.py)|[&check;](ABC/ABC079/D.py)||[ABC121](ABC/ABC121)|[&check;](ABC/ABC121/A.py)|[&check;](ABC/ABC121/B.py)|[&check;](ABC/ABC121/C.py)||
 |[ABC080](ABC/ABC080)|[&check;](ABC/ABC080/A.py)|[&check;](ABC/ABC080/B.py)|[&check;](ABC/ABC080/C.py)|||[ABC122](ABC/ABC122)|[&check;](ABC/ABC122/A.py)|[&check;](ABC/ABC122/B.py)|[&check;](ABC/ABC122/C.py)||
 |[ABC081](ABC/ABC081)|[&check;](ABC/ABC081/A.py)|[&check;](ABC/ABC081/B.py)|[&check;](ABC/ABC081/C.py)|||[ABC123](ABC/ABC123)|[&check;](ABC/ABC123/A.py)|[&check;](ABC/ABC123/B.py)|[&check;](ABC/ABC123/C.py)||
 |[ABC082](ABC/ABC082)|[&check;](ABC/ABC082/A.py)|[&check;](ABC/ABC082/B.py)|[&check;](ABC/ABC082/C.py)|||[ABC124](ABC/ABC124)|[&check;](ABC/ABC124/A.py)|[&check;](ABC/ABC124/B.py)|[&check;](ABC/ABC124/C.py)||
