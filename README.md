@@ -8,7 +8,7 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 ## [AtCoder Beginner Contest](ABC)
 | Problem A | Problem B | Problem C | Problem D | Problem E | Problem F |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|182/182  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|182/182  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|162/182|48/176|4/57|0/57|
+|182/182  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|182/182  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|159/182|54/176|4/57|0/57|
 
 
 ### ABC001 - ABC041
@@ -123,7 +123,7 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 |[ABC160](ABC/ABC160)|[&check;](ABC/ABC160/A.py)|[&check;](ABC/ABC160/B.py)|[&check;](ABC/ABC160/C.py)|[&check;](ABC/ABC161/D.py)|||
 |[ABC161](ABC/ABC161)|[&check;](ABC/ABC161/A.py)|[&check;](ABC/ABC161/B.py)|[&check;](ABC/ABC161/C.py)||||
 |[ABC162](ABC/ABC162)|[&check;](ABC/ABC162/A.py)|[&check;](ABC/ABC162/B.py)|[&check;](ABC/ABC162/C.py)|[&check;](ABC/ABC162/D.py)|||
-|[ABC163](ABC/ABC163)|[&check;](ABC/ABC163/A.py)|[&check;](ABC/ABC163/B.py)|[&check;](ABC/ABC163/C.py)||||
+|[ABC163](ABC/ABC163)|[&check;](ABC/ABC163/A.py)|[&check;](ABC/ABC163/B.py)|[&check;](ABC/ABC163/C.py)|[&check;](ABC/ABC163/D.py)|||
 |[ABC164](ABC/ABC164)|[&check;](ABC/ABC164/A.py)|[&check;](ABC/ABC164/B.py)|[&check;](ABC/ABC164/C.py)||||
 |[ABC165](ABC/ABC165)|[&check;](ABC/ABC165/A.py)|[&check;](ABC/ABC165/B.py)|[&check;](ABC/ABC165/C.py)|[&check;](ABC/ABC165/D.py)|||
 
@@ -132,7 +132,7 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 ## [AtCoder Regular Contest](ARC)
 | Problem A | Problem B | Problem C | Problem D | Problem E | Problem F |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|56/104|15/104|0/104|0/104|0/1|0/1|
+|60/104|15/104|0/104|0/104|0/1|0/1|
 
 ### ARC001 - ARC103
 |コンテスト| A | B | C | D ||コンテスト| A | B | C | D |
@@ -153,10 +153,10 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 |[ARC014](ARC/ARC014)|[&check;](ARC/ARC014/A.py)|[&check;](ARC/ARC014/B.py)| - | - ||[ARC066](ARC/ARC066)| - | - | - | - |
 |[ARC015](ARC/ARC015)|[&check;](ARC/ARC015/A.py)|[&check;](ARC/ARC015/B.py)| - | - ||[ARC067](ARC/ARC067)| - | - | - | - |
 |[ARC016](ARC/ARC016)|[&check;](ARC/ARC016/A.py)|[&check;](ARC/ARC016/B.py)| - | - ||[ARC068](ARC/ARC068)|[&check;](ARC/ARC068/A.py)| - | - | - |
-|[ARC017](ARC/ARC017)| - | - | - | - ||[ARC069](ARC/ARC069)|[&check;](ARC/ARC069/A.py)| - | - | - |
-|[ARC018](ARC/ARC018)| - | - | - | - ||[ARC070](ARC/ARC070)|[&check;](ARC/ARC070/A.py)| - | - | - |
-|[ARC019](ARC/ARC019)| - | - | - | - ||[ARC071](ARC/ARC071)|[&check;](ARC/ARC071/A.py)| - | - | - |
-|[ARC020](ARC/ARC020)| - | - | - | - ||[ARC072](ARC/ARC072)| - | - | - | - |
+|[ARC017](ARC/ARC017)|[&check;](ARC/ARC017/A.py)| - | - | - ||[ARC069](ARC/ARC069)|[&check;](ARC/ARC069/A.py)| - | - | - |
+|[ARC018](ARC/ARC018)|[&check;](ARC/ARC018/A.py)| - | - | - ||[ARC070](ARC/ARC070)|[&check;](ARC/ARC070/A.py)| - | - | - |
+|[ARC019](ARC/ARC019)|[&check;](ARC/ARC019/A.py)| - | - | - ||[ARC071](ARC/ARC071)|[&check;](ARC/ARC071/A.py)| - | - | - |
+|[ARC020](ARC/ARC020)|[&check;](ARC/ARC020/A.py)| - | - | - ||[ARC072](ARC/ARC072)| - | - | - | - |
 |[ARC021](ARC/ARC021)| - | - | - | - ||[ARC073](ARC/ARC073)|[&check;](ARC/ARC073/A.py)| - | - | - |
 |[ARC022](ARC/ARC022)| - | - | - | - ||[ARC074](ARC/ARC074)| - | - | - | - |
 |[ARC023](ARC/ARC023)| - | - | - | - ||[ARC075](ARC/ARC075)|[&check;](ARC/ARC075/A.py)| - | - | - |
