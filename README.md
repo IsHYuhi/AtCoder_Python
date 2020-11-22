@@ -8,7 +8,7 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 ## [AtCoder Beginner Contest](ABC)
 | Problem A | Problem B | Problem C | Problem D | Problem E | Problem F |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|183/183  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|183/183  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|162/183|58/177|4/58|0/58|
+|184/184  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|184/184  <img align="center" src="https://img.shields.io/badge/Completed!-green?style=for-the-badge"/>|163/184|59/178|4/59|0/59|
 
 
 ### ABC001 - ABC041
@@ -103,8 +103,8 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 |[ABC140](ABC/ABC140)|[&check;](ABC/ABC140/A.py)|[&check;](ABC/ABC140/B.py)|[&check;](ABC/ABC140/C.py)|||||[ABC180](ABC/ABC180/)|[&check;](ABC/ABC180/A.py)|[&check;](ABC/ABC180/B.py)|[&check;](ABC/ABC180/C.py)|[&check;](ABC/ABC180/D.py)|||
 |[ABC141](ABC/ABC141)|[&check;](ABC/ABC141/A.py)|[&check;](ABC/ABC141/B.py)|[&check;](ABC/ABC141/C.py)|[&check;](ABC/ABC141/D.py)||||[ABC181](ABC/ABC181/)|[&check;](ABC/ABC181/A.py)|[&check;](ABC/ABC181/B.py)|[&check;](ABC/ABC181/C.py)|[&check;](ABC/ABC181/D.py)|||
 |[ABC142](ABC/ABC142)|[&check;](ABC/ABC142/A.py)|[&check;](ABC/ABC142/B.py)|[&check;](ABC/ABC142/C.py)|[&check;](ABC/ABC142/D.py)||||[ABC182](ABC/ABC182/)|[&check;](ABC/ABC182/A.py)|[&check;](ABC/ABC182/B.py)|[&check;](ABC/ABC182/C.py)|[&check;](ABC/ABC182/D.py)|||
-|[ABC143](ABC/ABC143)|[&check;](ABC/ABC143/A.py)|[&check;](ABC/ABC143/B.py)|[&check;](ABC/ABC143/C.py)|[&check;](ABC/ABC143/D.py)||||[ABC182](ABC/ABC182/)|[&check;](ABC/ABC182/A.py)|[&check;](ABC/ABC182/B.py)|[&check;](ABC/ABC182/C.py)|[&check;](ABC/ABC182/D.py)|||
-|[ABC144](ABC/ABC144)|[&check;](ABC/ABC144/A.py)|[&check;](ABC/ABC144/B.py)|[&check;](ABC/ABC144/C.py)|[&check;](ABC/ABC144/D.py)|||
+|[ABC143](ABC/ABC143)|[&check;](ABC/ABC143/A.py)|[&check;](ABC/ABC143/B.py)|[&check;](ABC/ABC143/C.py)|[&check;](ABC/ABC143/D.py)||||[ABC183](ABC/ABC183/)|[&check;](ABC/ABC183/A.py)|[&check;](ABC/ABC183/B.py)|[&check;](ABC/ABC183/C.py)|[&check;](ABC/ABC183/D.py)|||
+|[ABC144](ABC/ABC144)|[&check;](ABC/ABC144/A.py)|[&check;](ABC/ABC144/B.py)|[&check;](ABC/ABC144/C.py)|[&check;](ABC/ABC144/D.py)||||[ABC184](ABC/ABC184/)|[&check;](ABC/ABC184/A.py)|[&check;](ABC/ABC184/B.py)|[&check;](ABC/ABC184/C.py)||||
 |[ABC145](ABC/ABC145)|[&check;](ABC/ABC145/A.py)|[&check;](ABC/ABC145/B.py)|[&check;](ABC/ABC145/C.py)||||
 |[ABC146](ABC/ABC146)|[&check;](ABC/ABC146/A.py)|[&check;](ABC/ABC146/B.py)|[&check;](ABC/ABC146/C.py)||||
 |[ABC147](ABC/ABC147)|[&check;](ABC/ABC147/A.py)|[&check;](ABC/ABC147/B.py)|[&check;](ABC/ABC147/C.py)||||
@@ -132,7 +132,7 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 ## [AtCoder Regular Contest](ARC)
 | Problem A | Problem B | Problem C | Problem D | Problem E | Problem F |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|60/104|15/104|0/104|0/104|0/1|0/1|
+|62/104|16/104|0/104|0/104|0/1|0/1|
 
 ### ARC001 - ARC103
 |コンテスト| A | B | C | D ||コンテスト| A | B | C | D |
@@ -144,7 +144,7 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 |[ARC005](ARC/ARC005)|[&check;](ARC/ARC005/A.py)| - | - | - ||[ARC057](ARC/ARC057)| - | - | - | - |
 |[ARC006](ARC/ARC006)|[&check;](ARC/ARC006/A.py)|[&check;](ARC/ARC006/B.py)| - | - ||[ARC058](ARC/ARC058)| - | - | - | - |
 |[ARC007](ARC/ARC007)|[&check;](ARC/ARC007/A.py)|[&check;](ARC/ARC007/B.py)| - | - ||[ARC059](ARC/ARC059)|[&check;](ARC/ARC059/A.py)| - | - | - |
-|[ARC008](ARC/ARC008)|[&check;](ARC/ARC008/A.py)| - | - | - ||[ARC060](ARC/ARC060)| - | - | - | - |
+|[ARC008](ARC/ARC008)|[&check;](ARC/ARC008/A.py)|[&check;](ARC/ARC008/B.py)| - | - ||[ARC060](ARC/ARC060)| - | - | - | - |
 |[ARC009](ARC/ARC009)|[&check;](ARC/ARC009/A.py)| - | - | - ||[ARC061](ARC/ARC061)|[&check;](ARC/ARC061/A.py)| - | - | - |
 |[ARC010](ARC/ARC010)|[&check;](ARC/ARC010/A.py)| - | - | - ||[ARC062](ARC/ARC062)| - | - | - | - |
 |[ARC011](ARC/ARC011)|[&check;](ARC/ARC011/A.py)| - | - | - ||[ARC063](ARC/ARC063)|[&check;](ARC/ARC063/A.py)| - | - | - |
@@ -158,8 +158,8 @@ AtCoderの問題をpython3で解いたものになります。AC確認は行っ�
 |[ARC019](ARC/ARC019)|[&check;](ARC/ARC019/A.py)| - | - | - ||[ARC071](ARC/ARC071)|[&check;](ARC/ARC071/A.py)| - | - | - |
 |[ARC020](ARC/ARC020)|[&check;](ARC/ARC020/A.py)| - | - | - ||[ARC072](ARC/ARC072)| - | - | - | - |
 |[ARC021](ARC/ARC021)|[&check;](ARC/ARC021/A.py)| - | - | - ||[ARC073](ARC/ARC073)|[&check;](ARC/ARC073/A.py)| - | - | - |
-|[ARC022](ARC/ARC022)| - | - | - | - ||[ARC074](ARC/ARC074)| - | - | - | - |
-|[ARC023](ARC/ARC023)| - | - | - | - ||[ARC075](ARC/ARC075)|[&check;](ARC/ARC075/A.py)| - | - | - |
+|[ARC022](ARC/ARC022)|[&check;](ARC/ARC022/A.py)| - | - | - ||[ARC074](ARC/ARC074)| - | - | - | - |
+|[ARC023](ARC/ARC023)|[&check;](ARC/ARC023/A.py)| - | - | - ||[ARC075](ARC/ARC075)|[&check;](ARC/ARC075/A.py)| - | - | - |
 |[ARC024](ARC/ARC024)| - | - | - | - ||[ARC076](ARC/ARC076)|[&check;](ARC/ARC076/A.py)| - | - | - |
 |[ARC025](ARC/ARC025)| - | - | - | - ||[ARC077](ARC/ARC077)|[&check;](ARC/ARC077/A.py)| - | - | - |
 |[ARC026](ARC/ARC026)| - | - | - | - ||[ARC078](ARC/ARC078)|[&check;](ARC/ARC078/A.py)| - | - | - |
